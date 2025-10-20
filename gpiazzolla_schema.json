@@ -1,0 +1,142 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ProfessionalService",
+      "name": "Gioacchino Piazzolla - Consulenza Logistica Trasporti",
+      "url": "https://gpiazzolla.com/",
+      "description": "Servizi professionali di autotrasporti come vettore e trasportatore autonomo. Gestione trasporti conto terzi specializzata per l'industria farmaceutica, radiofarmaceutica, manifatturiera, produzione e commercio industriale, food, beverage, GDO e HORECA. Offriamo servizi di consulenza logistica e gestionale, progetti logistici e deposito merci in sede di 44.000 Mq, preventivi di trasporti e spedizioni in tutta Italia. Regioni maggiormente servite: Puglia, Basilicata, Veneto, Lombardia, Emilia Romagna, Friuli Venezia Giulia, Trentino, Lazio, Toscana, Campania e Sicilia. I nostri maggiori clienti: FassaBortolo, Casillo, Pedon, GeneralTrade HappyCasa, Quargentan, Pedrollo, Ferroli, Olearia Desantis, Gruppo Stir, EventiService, InsoSystem, Zero&Company Suns, SuperBeton, Fornaci Calce Grigolin, Cuki, Miti, Domoliving ed altri. Certificazioni: ADR Classi 1 2 3 4 5 6 7 8 9, Temperatura Controllata ATP, Good Distribution Practice GDP.",
+      "areaServed": {
+        "@type": "Country",
+        "name": "Italia"
+      },
+      "makesOffer": [
+        {
+          "@type": "Offer",
+          "name": "Trasporto Radiofarmaci (ADR Class 7, GDP)"
+        },
+        {
+          "@type": "Offer",
+          "name": "Trasporto Farmaci e Radiofarmaci a Temperatura Controllata (ATP, GDP, ADR)"
+        },
+        {
+          "@type": "Offer",
+          "name": "Servizi di Logistica e Deposito Merci (GDP, ATP, ADR)"
+        },
+        {
+          "@type": "Offer",
+          "name": "Trasporti Nazionali per Industrie e Aziende (Manifatturiere, Produzione e Commercio Industriale, Food, Beverage, GDO, HORECA) (GDP, ATP, ADR)"
+        },
+        {
+          "@type": "Offer",
+          "name": "Trasporti Nazionali Merci Pericolose in ADR (GDP, ADR)"
+        },
+        {
+          "@type": "Offer",
+          "name": "Servizi di Consulenza Logistica e Gestionale (GDP)"
+        },
+        {
+          "@type": "Offer",
+          "name": "Servizi di Distribuzione Merci (GDP, ATP, ADR)"
+        },
+        {
+          "@type": "Offer",
+          "name": "Servizi di Deposito Logistico (GDP, ATP, ADR)"
+        },
+        {
+          "@type": "Offer",
+          "name": "Trasporti Nazionali Urgenti (GDP, ATP, ADR)"
+        }
+      ],
+      "sameAs": [
+        "https://www.linkedin.com/in/gioacchino-p86",
+        "https://www.facebook.com/gioacchino.piazzolla",
+        "https://www.instagram.com/g_piazzolla9"
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "name": "Gioacchino Piazzolla - Trasporti Logistica Depositi ADR ATP",
+      "slogan": "Your Logistic Way. 20 anni di servizi e soluzioni aziendali.",
+      "image": "https://gpiazzolla.com/gpiazzolla_v2.jpg",
+      "url": "https://gpiazzolla.com",
+      "telephone": "+393663279958",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Pio La Torre 7",
+        "addressLocality": "Barletta",
+        "postalCode": "76121",
+        "addressCountry": "IT"
+      },
+      "openingHours": "Mo-Fr 09:00-18:00, Sa 09:00-12:00"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Come posso richiedere preventivi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Compila il form contatti, invia un'email o chiama il numero +393663279958."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Dove posso leggere le recensioni?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Puoi leggere le testimonianze su Google Maps: https://www.google.it/maps/place/Gioacchino+Piazzolla/@41.3035353,16.2721781,17z/data=!4m8!3m7!1s0x4853b6f3cbc113d9:0x83c1241536cc98ec!8m2!3d41.3035313!4d16.274753!9m1!1b1!16s%2Fg%2F11vc7xj5vn"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "name": "DOVECARICO",
+      "url": "https://freightconnect-2.preview.emergentagent.com/",
+      "image": [
+        "https://raw.githubusercontent.com/GPiazzolla/dovecarico-images/main/img1.JPG",
+        "https://raw.githubusercontent.com/GPiazzolla/dovecarico-images/main/img2.JPG",
+        "https://raw.githubusercontent.com/GPiazzolla/dovecarico-images/main/img3.JPG",
+        "https://raw.githubusercontent.com/GPiazzolla/dovecarico-images/main/img4.JPG",
+        "https://raw.githubusercontent.com/GPiazzolla/dovecarico-images/main/img5.JPG",
+        "https://raw.githubusercontent.com/GPiazzolla/dovecarico-images/main/logosito.JPG"
+      ],
+      "description": "Progetto di una borsa di carichi market-place di servizi di trasporto, logistica, fatturazione, monitoraggio e gestione flotte, carburante ed altro maggiormente per l'Italia e l'Europa. Mette in contatto le aziende committenti con aziende di logistica ed autotrasporto. Cerco investitori.",
+      "brand": {
+        "@type": "Brand",
+        "name": "DOVECARICO",
+        "url": "https://freightconnect-2.preview.emergentagent.com/"
+      },
+      "offers": {
+        "@type": "Offer",
+        "description": "Investimento nel Progetto DOVECARICO",
+        "price": "3000000",
+        "priceCurrency": "EUR",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-06-30"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "12"
+      },
+      "review": {
+        "@type": "Review",
+        "author": {
+          "@type": "Organization",
+          "name": "Luca Vallarella Costruzioni"
+        },
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "reviewBody": "Per investitori e fondi d'investimento nel settore trasporti e logistica con brand già depositato e domini web."
+      }
+    }
+  ]
+}
+</script>
